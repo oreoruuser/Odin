@@ -14,9 +14,10 @@ h1{
     margin-top: 20px;
     padding: 10px;
 }
+
 a{
     text-decoration: none;
-    color: whitesmoke;
+    color: color(srgb 0.0233 0.4342 0.3046);
 }
 a:hover{
     color: color(srgb 0.1 0.1 0.1);
@@ -41,10 +42,10 @@ img{
     max-width: 800px;
 }
 ul{
-    margin: 0px auto;
+    margin: 0px auto 0px 200px;
     text-align: left;
     list-style-position:inside;
     width: fit-content;
     max-width: max-content;
-    font-size: 6.2em;
+    font-size: 2.2em;
 }
